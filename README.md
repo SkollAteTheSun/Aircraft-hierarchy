@@ -1,7 +1,6 @@
 # Aircraft-hierarchy
 
-
-Software implementation of aircraft hierarchy
+Software implementation of aircraft hierarchy made with C# and Windows Forms.
 
 The program should provide the ability to perform the following functions:
 * Creation/deletion of objects of the constructed class hierarchy;
