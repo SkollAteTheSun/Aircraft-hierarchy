@@ -1,0 +1,75 @@
+C:\Users\nnasy\source\repos\VP7\VP7\bin\Debug\VP7.exe.config
+C:\Users\nnasy\source\repos\VP7\VP7\bin\Debug\VP7.exe
+C:\Users\nnasy\source\repos\VP7\VP7\bin\Debug\VP7.pdb
+C:\Users\nnasy\source\repos\VP7\VP7\obj\Debug\VP7.csprojAssemblyReference.cache
+C:\Users\nnasy\source\repos\VP7\VP7\obj\Debug\VP7.Form1.resources
+C:\Users\nnasy\source\repos\VP7\VP7\obj\Debug\VP7.Properties.Resources.resources
+C:\Users\nnasy\source\repos\VP7\VP7\obj\Debug\VP7.csproj.GenerateResource.cache
+C:\Users\nnasy\source\repos\VP7\VP7\obj\Debug\VP7.csproj.CoreCompileInputs.cache
+C:\Users\nnasy\source\repos\VP7\VP7\obj\Debug\VP7.exe
+C:\Users\nnasy\source\repos\VP7\VP7\obj\Debug\VP7.pdb
+C:\Users\nnasy\source\repos\VP7\VP7\obj\Debug\VP7.Add.resources
+C:\Users\nnasy\source\repos\VP7\VP7\obj\Debug\VP7.RemovingConfirmation.resources
+C:\Users\nnasy\Desktop\VP7\VP7\obj\Debug\VP7.csprojAssemblyReference.cache
+C:\Users\nnasy\Desktop\VP7\VP7\obj\Debug\VP7.Add.resources
+C:\Users\nnasy\Desktop\VP7\VP7\obj\Debug\VP7.Form1.resources
+C:\Users\nnasy\Desktop\VP7\VP7\obj\Debug\VP7.Properties.Resources.resources
+C:\Users\nnasy\Desktop\VP7\VP7\obj\Debug\VP7.RemovingConfirmation.resources
+C:\Users\nnasy\Desktop\VP7\VP7\obj\Debug\VP7.csproj.GenerateResource.cache
+C:\Users\nnasy\Desktop\VP7\VP7\obj\Debug\VP7.csproj.CoreCompileInputs.cache
+C:\Users\nnasy\Desktop\VP7\VP7\obj\Debug\VP7.exe
+C:\Users\nnasy\Desktop\VP7\VP7\obj\Debug\VP7.pdb
+C:\Users\nnasy\Desktop\VP7\VP7\bin\Debug\VP7.exe.config
+C:\Users\nnasy\Desktop\VP7\VP7\bin\Debug\VP7.exe
+C:\Users\nnasy\Desktop\VP7\VP7\bin\Debug\VP7.pdb
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\bin\Debug\VP7.exe.config
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\bin\Debug\VP7.exe
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\bin\Debug\VP7.pdb
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\obj\Debug\VP7.Add.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\obj\Debug\VP7.Form1.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\obj\Debug\VP7.Properties.Resources.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\obj\Debug\VP7.RemovingConfirmation.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\obj\Debug\VP7.UserControl1.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\obj\Debug\VP7.csproj.GenerateResource.cache
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\obj\Debug\VP7.csproj.CoreCompileInputs.cache
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\obj\Debug\VP7.exe
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\obj\Debug\VP7.pdb
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\obj\Debug\VP7.UserControl2.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\obj\Debug\VP7.csprojAssemblyReference.cache
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\obj\Debug\VP7.About.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\obj\Debug\VP7.Reference.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3)\VP7\obj\Debug\VP7.Search.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\bin\Debug\VP7.exe.config
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\bin\Debug\VP7.exe
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\bin\Debug\VP7.pdb
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\obj\Debug\VP7.csprojAssemblyReference.cache
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\obj\Debug\VP7.About.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\obj\Debug\VP7.Add.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\obj\Debug\VP7.Form1.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\obj\Debug\VP7.Properties.Resources.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\obj\Debug\VP7.Reference.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\obj\Debug\VP7.RemovingConfirmation.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\obj\Debug\VP7.Search.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\obj\Debug\VP7.UserControl1.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\obj\Debug\VP7.UserControl2.resources
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\obj\Debug\VP7.csproj.GenerateResource.cache
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\obj\Debug\VP7.csproj.CoreCompileInputs.cache
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\obj\Debug\VP7.exe
+C:\Users\nnasy\Desktop\VP7 — копия (3) — копия\VP7\obj\Debug\VP7.pdb
+C:\Users\Nick\Desktop\Course\VP7\bin\Debug\VP7.exe.config
+C:\Users\Nick\Desktop\Course\VP7\bin\Debug\VP7.exe
+C:\Users\Nick\Desktop\Course\VP7\bin\Debug\VP7.pdb
+C:\Users\Nick\Desktop\Course\VP7\obj\Debug\VP7.csproj.AssemblyReference.cache
+C:\Users\Nick\Desktop\Course\VP7\obj\Debug\VP7.About.resources
+C:\Users\Nick\Desktop\Course\VP7\obj\Debug\VP7.Add.resources
+C:\Users\Nick\Desktop\Course\VP7\obj\Debug\VP7.Form1.resources
+C:\Users\Nick\Desktop\Course\VP7\obj\Debug\VP7.Properties.Resources.resources
+C:\Users\Nick\Desktop\Course\VP7\obj\Debug\VP7.Reference.resources
+C:\Users\Nick\Desktop\Course\VP7\obj\Debug\VP7.RemovingConfirmation.resources
+C:\Users\Nick\Desktop\Course\VP7\obj\Debug\VP7.Search.resources
+C:\Users\Nick\Desktop\Course\VP7\obj\Debug\VP7.UserControl1.resources
+C:\Users\Nick\Desktop\Course\VP7\obj\Debug\VP7.UserControl2.resources
+C:\Users\Nick\Desktop\Course\VP7\obj\Debug\VP7.csproj.GenerateResource.cache
+C:\Users\Nick\Desktop\Course\VP7\obj\Debug\VP7.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\Course\VP7\obj\Debug\VP7.exe
+C:\Users\Nick\Desktop\Course\VP7\obj\Debug\VP7.pdb

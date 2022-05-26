@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <anyType xsi:type="Airship">
+    <Name>ZMC-2</Name>
+    <Producer>США</Producer>
+    <Function>Гражданский</Function>
+    <MaxTime>11 часов</MaxTime>
+    <ShellType>Цельнометаллическая</ShellType>
+    <ShellVolume>5720</ShellVolume>
+    <Form>Сигарообразная</Form>
+  </anyType>
+  <anyType xsi:type="Balloon">
+    <Name>AX-6</Name>
+    <Producer>Россия</Producer>
+    <Function>Рекламные полеты</Function>
+    <MaxTime>12 часов</MaxTime>
+    <ShellType>Мягкая</ShellType>
+    <ShellVolume>1550</ShellVolume>
+    <Color>Синий</Color>
+  </anyType>
+  <anyType xsi:type="Helicopter">
+    <Name>MBB Bo 105</Name>
+    <Producer>Германия</Producer>
+    <Function>Ударный вертолет</Function>
+    <MaxTime>6 часов 35 минут</MaxTime>
+    <Crew>1</Crew>
+    <СountBlades>4</СountBlades>
+  </anyType>
+  <anyType xsi:type="Plane">
+    <Name>Boeing 727</Name>
+    <Producer>США</Producer>
+    <Function>Пассажирский</Function>
+    <MaxTime>20 часов</MaxTime>
+    <Crew>9</Crew>
+    <Wingspan>33</Wingspan>
+  </anyType>
+  <anyType xsi:type="Satellite">
+    <Name>Спутник-1</Name>
+    <Producer>СССР</Producer>
+    <Function>Исследование радиоволн</Function>
+    <MaxTime>3 года</MaxTime>
+    <CirculationPeriod>97 минут</CirculationPeriod>
+    <TimeОrbit>90</TimeОrbit>
+  </anyType>
+  <anyType xsi:type="Station">
+    <Name>МКС</Name>
+    <Producer>США, Россия</Producer>
+    <Function>Исследование космоса</Function>
+    <MaxTime>30 лет</MaxTime>
+    <CirculationPeriod>92 минтуы</CirculationPeriod>
+    <TimeОrbit>7719</TimeОrbit>
+    <DockingNodes>9</DockingNodes>
+  </anyType>
+  <anyType xsi:type="Helicopter">
+    <Name>Ka-27</Name>
+    <Producer>Россия</Producer>
+    <Function>Противолодочный</Function>
+    <MaxTime>2 часа 50 минут</MaxTime>
+    <Crew>3</Crew>
+    <СountBlades>6</СountBlades>
+  </anyType>
+  <anyType xsi:type="Helicopter">
+    <Name>Boeing CH-47 Chinook</Name>
+    <Producer>США, Япония</Producer>
+    <Function>Вертолет-спасатель</Function>
+    <MaxTime>12 часов</MaxTime>
+    <Crew>3</Crew>
+    <СountBlades>3</СountBlades>
+  </anyType>
+  <anyType xsi:type="Plane">
+    <Name>A-175</Name>
+    <Producer>Россия</Producer>
+    <Function>Беспилотник</Function>
+    <MaxTime>7 часов</MaxTime>
+    <Crew>0</Crew>
+    <Wingspan>2</Wingspan>
+  </anyType>
+  <anyType xsi:type="Plane">
+    <Name>Bombardier 415</Name>
+    <Producer>Канада</Producer>
+    <Function>Противопожарный</Function>
+    <MaxTime>13 часов</MaxTime>
+    <Crew>2</Crew>
+    <Wingspan>28</Wingspan>
+  </anyType>
+  <anyType xsi:type="Station">
+    <Name>Тяньгун-1</Name>
+    <Producer>Китай</Producer>
+    <Function>Обработка процесса стыковки</Function>
+    <MaxTime>20 лет</MaxTime>
+    <CirculationPeriod>80 минут</CirculationPeriod>
+    <TimeОrbit>3021</TimeОrbit>
+    <DockingNodes>4</DockingNodes>
+  </anyType>
+  <anyType xsi:type="Satellite">
+    <Name>Просперо X-3</Name>
+    <Producer>Великобритания</Producer>
+    <Function>Спутниковая связь</Function>
+    <MaxTime>70 лет</MaxTime>
+    <CirculationPeriod>107 минут</CirculationPeriod>
+    <TimeОrbit>50</TimeОrbit>
+  </anyType>
+</ArrayOfAnyType>
