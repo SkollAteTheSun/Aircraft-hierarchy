@@ -2,7 +2,7 @@
 
 Software implementation of aircraft hierarchy made with C# and Windows Forms.
 
-The program should provide the ability to perform the following functions:
+The program provides the ability to perform the following functions:
 * Creation/deletion of objects of the constructed class hierarchy;
 * Visualization of objects;
 * Manipulating objects with the mouse;
